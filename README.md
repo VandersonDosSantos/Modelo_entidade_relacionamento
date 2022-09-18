@@ -1,2 +1,2 @@
-# Primeiro_banco_de_dados
-Primeiro projeto sobre bancos de dados relacionais
+# Modelo_entidade_relacionamento
+## Modelo do tipo entidade relacionamento sobre um projeto de e-commerce
